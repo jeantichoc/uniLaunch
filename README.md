@@ -1,5 +1,5 @@
 # uniLaunch
-Portable Unified Launcher for your file
+Portable Unified Launcher for your files
 I'm using it for my portable retrogaming setup 
 
 Settings have to be manually entered in the uniLaunch.ini file  
