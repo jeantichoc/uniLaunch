@@ -1,4 +1,4 @@
-# UniLaunch
+# uniLaunch
 Portable Unified Launcher for your file
 I'm using it for my portable retrogaming setup 
 
