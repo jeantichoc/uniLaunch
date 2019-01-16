@@ -2,6 +2,8 @@
 Portable Unified Launcher for your files
 I'm using it for my portable retrogaming setup 
 
+![diagram](https://github.com/jbottein/uniLaunch/blob/master/doc/diagram.png?raw=true)
+
 Settings have to be manually entered in the uniLaunch.ini file  
 
 When a file is open with UniLaunch.exe, The program will find the command line to run associate with the file extension.  
